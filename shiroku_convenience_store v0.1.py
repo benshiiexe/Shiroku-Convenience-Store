@@ -1,6 +1,6 @@
 #Program created by: Benedict Emmanuel D. Rivera
 #Date created: Aug 3, 2026
-#Program title: Hands-on Activity 2
+#Program title: Hands-on Activity 3
 print("=======================================================")
 print("=========Welcome to Shiroku Convenience Store==========")
 print("=======================================================")
